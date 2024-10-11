@@ -24,7 +24,7 @@ git clone https://github.com/Pyfpaf/service-emnist-cnn.git
 
 2. Переходим в папку репозитория с помощью команды
 
-cd service-emnist
+cd service-emnist-cnn
 
 3. Проверяем запущен-ли на локальном компьютере сервис docker после чего выполняем команду для создания docker образа
 
